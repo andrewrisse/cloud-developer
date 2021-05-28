@@ -15,8 +15,8 @@ import {filterImageFromURL, deleteLocalFiles} from './util/util';
 
 
   // GET /filteredimage?image_url={{URL}}
-  // endpoint filtera an image from a public url.
-  // QUERY PARAMATERS
+  // endpoint filters an image from a public url.
+  // QUERY PARAMETERS
   //    image_url: URL of a publicly accessible image
   // RETURNS
   //   the filtered image file 
